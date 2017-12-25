@@ -1,4 +1,4 @@
-/*    _           _    _                     _ 
+P/*    _           _    _                     _ 
      | |         | |  | |                   | |
   ___| | ___  ___| | _| |     ___   __ _  __| |
  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "polar123.png";
+var l_serverImage = "Polar123.png";
 
 /*Display current map and gamemode?
 'true' or 'false'*/
